@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!-- you should replace the root tag and put your stuff bellow  -->
+<!--
+配置说明：
+当云端返回无情绪值时，根据云端返回的愉悦度，划分机器人当前情绪的高低为lowest highest 和 middle,
+针对每一级别的情绪配置表情名称，代码判断当前机器人情绪状态，随机选取一个该级别的对应表情输出。
+-->
+<resources>
+    <array name="lowest">
+        <item>calm</item>
+        <item>dissatisfied</item>
+        <item>confused</item>
+    </array>
+
+    <array name="highest">
+        <item>calm</item>
+        <item>dissatisfied</item>
+        <item>happy</item>
+        <item>excite</item>
+    </array>
+
+    <array name="middle">
+        <item>dissatisfied</item>
+        <item>happy</item>
+        <item>excite</item>
+        <item>desire</item>
+    </array>
+</resources>

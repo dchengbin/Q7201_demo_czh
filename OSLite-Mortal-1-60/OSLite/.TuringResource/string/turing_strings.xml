@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+配置说明：
+name:资源字符串的名字，可使用ResourceManager.getString(name),获取对应的value
+value: 资源字符串
+目前的配置项多为一些提示语，用户可自行替换。
+-->
+<resources>
+	<string name="robot_sleep">Robot Sleep.</string>
+	<string name="robot_wakeup">Robot Wakeup.</string>
+	<string name="user_interrupt">I was interrupted.</string>
+	<string name="user_interrupt_touch">Why do you touch me?</string>
+
+	<string name="network_disconnected">Network disconnected. Please use client connect network.</string>
+	<string name="network_connected">Network connected.</string>
+</resources>

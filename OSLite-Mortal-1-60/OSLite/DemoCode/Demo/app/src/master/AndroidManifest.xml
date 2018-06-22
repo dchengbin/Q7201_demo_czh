@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="com.turing123.robotframe.demo.ProductFlavorActivity"
+            android:label="General Robot">
+            <intent-filter>
+                <action android:name="com.turing123.robotframe.PRODUCT_FLAVOR" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

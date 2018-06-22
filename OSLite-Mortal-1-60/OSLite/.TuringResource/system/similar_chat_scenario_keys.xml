@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+配置说明：
+该配置主要配置一些类似聊天的场景，使的这些场景无需独立开发即可进行正常的一问一答
+每一个item为一个要配置的appkey，场景appkey请向图灵获取
+-->
+<resources>
+    <string-array name="keys">
+        <item>os.sys.wiki</item>
+    </string-array>
+</resources>

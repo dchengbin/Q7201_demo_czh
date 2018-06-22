@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="asr_processor">
+        <item>Online ASR</item>
+        <item>Offline ASR</item>
+        <item>Default(Online)</item>
+    </string-array>
+</resources>

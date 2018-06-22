@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!-- you should replace the root tag and put your stuff bellow  -->
+<!--
+配置说明：
+code:语音动作指令下发的动作名称
+value:动作名称对应的动作code，动作code含义参考类：BodyActionCode
+-->
+<resources>
+    <item code="left">56</item>
+    <item code="right">57</item>
+    <item code="turn_back">56</item>
+    <item code="front">3</item>
+    <item code="back">4</item>
+    <item code="circle">57</item>
+    <item code="action_arm">24</item>
+    <item code="frontTop">53</item>
+    <item code="frontBottom">21</item>
+</resources>

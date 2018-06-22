@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+配置说明：
+turing.wakeup.independent：
+true,使用独立wakeup apk 作为唤醒服务，如未安装则启动失败；false,使用内置wakeup服务，但包名需与图灵保持一致。
+turing.offlineasr.independent：
+true,使用独立offlineASR apk 作为离线asr，如未安装则启动失败；false,使用内置offlineASR服务，但包名需与图灵保持一致。
+turing.expression.show:
+true,在window中添加 gifview 用来显示表情动画；false,不显示expression动画。
+-->
+<resources>
+    <bool name="turing.wakeup.independent">false</bool>
+    <bool name="turing.offlineasr.independent">false</bool>
+    <bool name="turing.expression.show">false</bool>
+</resources>

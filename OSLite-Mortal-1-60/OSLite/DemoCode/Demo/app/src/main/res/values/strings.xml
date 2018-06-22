@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">FrameDemo</string>
+    <string name="up_head">抬头</string>
+    <string name="head_up">抬头</string>
+    <string name="handle_up">伸手</string>
+    <string name="byebye">再见</string>
+    <string name="waist">叉腰</string>
+
+    <string name="add_ear_logic">添加耳朵灯圈逻辑</string>
+    <string name="test_right_interrupt">测试右手打断</string>
+    <string name="test_left_interrupt">测试左手打断</string>
+    <string name="test_right_long">测试右手长按</string>
+    <string name="test_left_long">测试左手长按</string>
+    <string name="virtual_robot">Virtual Robot</string>
+    <string name="show_virtual_robot">Show Virtual Robot</string>
+    <string name="use_tips">使用流程提示： 机器人内部使用的部分功能首次使用要联网验证 如是框架首次启动，请先连接网络，否则将有可能启动失败。</string>
+    <string name="connect_net_by_ap_demo">Connect Net By AP Demo</string>
+    <string name="connect_net_by_voice_demo">Connect Net By VOICE Demo</string>
+    <string name="select_a_mode_to_start_robotframe">Select a mode to start RobotFrame</string>
+    <string name="start_auto_mode">START AUTO MODE</string>
+    <string name="start_manual_mode">START MANUAL MODE</string>
+    <string name="tuling_robot_development_frame_demo">Tuling Robot Development Frame Demo</string>
+    <string name="manual_asr">MANUAL ASR</string>
+    <string name="basic_api_demo">Basic API Demo</string>
+    <string name="tts_demo">TTS DEMO</string>
+    <string name="serialport_demo">SERIALPORT DEMO</string>
+    <string name="asr_demo">ASR DEMO</string>
+    <string name="asr_result">Asr Result:</string>
+    <string name="assemble_demo">ASSEMBLE DEMO</string>
+    <string name="visual_demo">VISUAL DEMO</string>
+    <string name="motion_test">Motion test</string>
+    <string name="scenario_demo">Scenario Demo</string>
+    <string name="add_scenario">ADD SCENARIO</string>
+    <string name="main_scenario_controls_me">Main Scenario Controls ME</string>
+    <string name="found_mind">FOUND MIND</string>
+    <string name="lost_self">LOST SELF</string>
+    <string name="main_scenario_asr_prompt">Main Scenario Asr Prompt</string>
+    <string name="connect_net_by_wifi_direct_demo">Connect Net By WiFi-direct Demo</string>
+    <string name="get_system_properties">GET SYSTEM_PROPERTIES</string>
+    <string name="notify">Notify:</string>
+    <string name="notification_demo">Notification Demo</string>
+    <string name="remove_local_command">Remove Local Command</string>
+    <string name="add_local_command">Add Local Command</string>
+    <string name="resource_manager_demo">RESOURCE MANAGER DEMO</string>
+    <string name="features_demo">Features Demo</string>
+    <string name="set_asr_hot_words">SET ASR HOT WORDS</string>
+    <string name="reset_asr_function">RESET ASR FUNCTION</string>
+    <string name="asr">选择ASR引擎</string>
+    <string name="remove_assemble_output_demo">REMOVE ASSEMBLE OUTPUT DEMO</string>
+    <string name="add_assemble_output_demo">ADD ASSEMBLE OUTPUT DEMO</string>
+    <string name="replace_tts_demo">REPLACE TTS DEMO</string>
+    <string name="custom_function_demo">Custom Function Demo</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+		port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string>
+</resources>

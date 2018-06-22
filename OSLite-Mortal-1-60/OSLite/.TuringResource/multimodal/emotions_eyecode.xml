@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ 配置说明：
+ name:表情名称
+ value:实体机器人时，该表情对应的眼部表情动作code. 详情可参考类：EyeActionCode.
+ -->
+<resources>
+    <integer name="wink">1</integer>
+    <integer name="surprise">2</integer>
+    <integer name="awkward">3</integer>
+    <integer name="laugh_cry">4</integer>
+    <integer name="think">5</integer>
+    <integer name="naughtys">6</integer>
+    <integer name="thank">7</integer>
+    <integer name="up">8</integer>
+    <integer name="down">9</integer>
+    <integer name="depressed">10</integer>
+    <integer name="doze">11</integer>
+    <integer name="angry">12</integer>
+    <integer name="left">13</integer>
+    <integer name="right">14</integer>
+    <integer name="excites">15</integer>
+    <integer name="praise">15</integer>
+    <integer name="happys">16</integer>
+    <integer name="disgust">17</integer>
+    <integer name="mad">18</integer>
+    <integer name="fear">19</integer>
+    <integer name="curious">20</integer>
+    <integer name="confused">20</integer>
+    <integer name="desire">21</integer>
+    <integer name="calm">22</integer>
+    <integer name="disappointed">23</integer>
+    <integer name="anxious">24</integer>
+    <integer name="nervous">24</integer>
+    <integer name="expect">25</integer>
+    <integer name="alert">26</integer>
+    <integer name="unhappy">27</integer>
+    <integer name="smile">28</integer>
+    <integer name="boring">29</integer>
+    <integer name="kawaii">30</integer>
+    <integer name="silly">31</integer>
+    <integer name="stare">32</integer>
+</resources>
